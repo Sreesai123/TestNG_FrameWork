@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-08T08:56:38 IST" name="Default suite" finished-at="2023-04-08T08:57:01 IST" duration-ms="22812">
+    <groups>
+    </groups>
+    <test started-at="2023-04-08T08:56:38 IST" name="Default test" finished-at="2023-04-08T08:57:01 IST" duration-ms="22812">
+      <class name="qedge_April.AdvanceExtensionReport">
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:qedge_April.AdvanceExtensionReport@2034b64c]" started-at="2023-04-08T08:56:38 IST" name="generateReport" finished-at="2023-04-08T08:56:39 IST" duration-ms="736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:qedge_April.AdvanceExtensionReport@2034b64c]" started-at="2023-04-08T08:56:39 IST" name="setUp" finished-at="2023-04-08T08:56:48 IST" duration-ms="9473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testfail()[pri:0, instance:qedge_April.AdvanceExtensionReport@2034b64c]" started-at="2023-04-08T08:56:48 IST" name="testfail" finished-at="2023-04-08T08:56:48 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfail -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qedge_April.AdvanceExtensionReport@2034b64c]" started-at="2023-04-08T08:56:48 IST" name="tearDown" finished-at="2023-04-08T08:56:49 IST" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:qedge_April.AdvanceExtensionReport@2034b64c]" started-at="2023-04-08T08:56:49 IST" name="setUp" finished-at="2023-04-08T08:57:01 IST" duration-ms="11259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testpass()[pri:0, instance:qedge_April.AdvanceExtensionReport@2034b64c]" started-at="2023-04-08T08:57:01 IST" name="testpass" finished-at="2023-04-08T08:57:01 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpass -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qedge_April.AdvanceExtensionReport@2034b64c]" started-at="2023-04-08T08:57:01 IST" name="tearDown" finished-at="2023-04-08T08:57:01 IST" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qedge_April.AdvanceExtensionReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
